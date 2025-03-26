@@ -9,14 +9,14 @@
 
 ## Content
 
-| Item                | Preview                                                        | Recipe                                                                     |
-|---------------------|----------------------------------------------------------------|----------------------------------------------------------------------------|
-| Soft Toy Shark      | <img src="./pretty_readme/preview_blue_shark.png" height=124/> | ![Crafting recipe for Blåhaj](pretty_readme/recipe_blue_shark.png)      |
-| Gray Toy Shark      | <img src="./pretty_readme/preview_gray_shark.png" height=124/> | ![Crafting recipe for Klappar Haj](pretty_readme/trade_gray_shark.png)  |
-| Soft Toy Blue Whale | <img src="./pretty_readme/preview_blue_whale.png" height=124/> | ![Crafting recipe for Blåvingad](pretty_readme/recipe_blue_whale.png)   |
-| Bread Pillow        | <img src="./pretty_readme/preview_bread.png" height=124/>      | ![Crafting recipe for Bread Pillow](pretty_readme/recipe_bread.png)     |
-| Brown Bear          | <img src="./pretty_readme/preview_brown_bear.png" height=124/> | Gift from Fletchers, Butchers and Leatherworkers when you rescue a village |
-| Pride Sharks        | <img src="./pretty_readme/pride_sharks.png" height=124/>       | ![Crafting recipe for Pride Sharks](pretty_readme/recipe_pride.png)     |
+| Item                | Preview                                                         | Recipe                                                                     |
+|---------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|
+| Soft Toy Shark      | <img src="./.pretty_readme/preview_blue_shark.png" height=124/> | ![Crafting recipe for Blåhaj](.pretty_readme/recipe_blue_shark.png)      |
+| Gray Toy Shark      | <img src="./.pretty_readme/preview_gray_shark.png" height=124/> | ![Crafting recipe for Klappar Haj](.pretty_readme/trade_gray_shark.png)  |
+| Soft Toy Blue Whale | <img src="./.pretty_readme/preview_blue_whale.png" height=124/> | ![Crafting recipe for Blåvingad](.pretty_readme/recipe_blue_whale.png)   |
+| Bread Pillow        | <img src="./.pretty_readme/preview_bread.png" height=124/>      | ![Crafting recipe for Bread Pillow](.pretty_readme/recipe_bread.png)     |
+| Brown Bear          | <img src="./.pretty_readme/preview_brown_bear.png" height=124/> | Gift from Fletchers, Butchers and Leatherworkers when you rescue a village |
+| Pride Sharks        | <img src="./.pretty_readme/pride_sharks.png" height=124/>       | ![Crafting recipe for Pride Sharks](.pretty_readme/recipe_pride.png)     |
 
 ## Original Quilt Version
 
