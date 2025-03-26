@@ -1,0 +1,7 @@
+{ 
+  "parent": "blahaj:block/shark",
+  "textures": { 
+    "0": "blahaj:block/blue_shark", 
+    "particle": "blahaj:block/blue_shark" 
+  }
+} 

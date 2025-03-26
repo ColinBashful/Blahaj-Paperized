@@ -1,0 +1,13 @@
+name: BlahajPaperized
+version: '1.0'
+main: de.cjdev.blahajPaperized.BlahajPaperized
+api-version: '1.21'
+load: STARTUP
+authors: [ CJDev ]
+description: The Blahaj mod, now for PaperMC!
+website: https://modrinth.com/plugin/blahaj-paperized
+dependencies:
+  server:
+    PaperModAPI:
+      load: BEFORE
+      required: true
