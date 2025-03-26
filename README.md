@@ -1,4 +1,4 @@
-# Blåhaj Polymerized
+# Blåhaj Paperized
 
 **A minecraft plugin that adds the IKEA BLÅHAJ Soft toy shark and a giant bread pillow as items.**
 
