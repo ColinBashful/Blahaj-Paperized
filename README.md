@@ -21,7 +21,7 @@
 ## Original Quilt Version
 
 This is a port of the original [Hibiii/Blahaj: BLÅHAJ Soft toy, shark mod, 16px](https://github.com/Hibiii/Blahaj).
-If you are a Quilt user on <1.21.4 use their version instead and say thanks! 😄
+If you are a Quilt user on <=1.20.2 use their version instead and say thanks! 😄
 
 ## License
 
