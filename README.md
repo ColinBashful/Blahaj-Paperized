@@ -4,7 +4,8 @@
 
 - When you craft or rename a plushie, it'll have your username attached to it.
 - You sadly can't place the plushies down 🥲 (yet)
-- Requires [PaperModAPI](https://modrinth.com/plugin/papermodapi), and semi-optionally [Dynamic RP](https://modrinth.com/plugin/dynamic-rp) and
+- Stonecutter recipes also don't work rn ...
+- Requires [PaperModAPI](https://modrinth.com/plugin/papermodapi), and semi-optionally [Dynamic RP](https://modrinth.com/plugin/dynamic-rp) and RecipeAPI
 
 ## Content
 
