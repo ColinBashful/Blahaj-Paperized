@@ -18,15 +18,14 @@
 | Brown Bear          | <img src="./.pretty_readme/preview_brown_bear.png" height=124/> | Gift from Fletchers, Butchers and Leatherworkers when you rescue a village |
 | Pride Sharks        | <img src="./.pretty_readme/pride_sharks.png" height=124/>       | ![Crafting recipe for Pride Sharks](.pretty_readme/recipe_pride.png)     |
 
-## Original Quilt Version
+## Ported Mod
 
-This is a port of the original [Hibiii/Blahaj: BLÅHAJ Soft toy, shark mod, 16px](https://github.com/Hibiii/Blahaj).
+This is a port of the fork [Blahaj (Fabric) - replushed](https://github.com/DaFuqs/Blahaj) of the original.
 If you are a Quilt user on <=1.20.2 use their version instead and say thanks! 😄
 
 ## License
 
-- This mod - as its original - is licensed under the Unlicense. Feel free to learn from it and incorporate it in your
+- This plugin - as its original - is licensed under the Unlicense. Feel free to learn from it and incorporate it in your
   own projects.
-- The icon of this project is the Blobhaj by Heatherhorns, and is licensed under a Creative Commons Attribution 4.0
-  International License.
+- The icon of this project is a screenshot of me and a cute Blåhaj.
 - Most ingame images are from the original creator Hibiii.
