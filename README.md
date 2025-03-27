@@ -21,7 +21,7 @@
 ## Ported Mod
 
 This is a port of the fork [Blahaj (Fabric) - replushed](https://github.com/DaFuqs/Blahaj) of the original.
-If you are a Quilt user on <=1.20.2 use their version instead and say thanks! 😄
+If you are a Fabric/Quilt user use their version instead and say thanks! 😄
 
 ## License
 

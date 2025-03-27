@@ -51,7 +51,7 @@ public class CuddlyItem extends CustomItem {
     }
 
     @Override
-    public void appendHoverText(ItemStack stack, List<Component> tooltip, TooltipContext context) {
+    public void appendTooltip(ItemStack stack, List<Component> tooltip, TooltipContext context) {
         if (this.tooltip != null) {
             tooltip.add(this.tooltip);
         }
