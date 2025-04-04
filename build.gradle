@@ -16,12 +16,16 @@ repositories {
         name = "sonatype"
         url = "https://oss.sonatype.org/content/groups/public/"
     }
+    maven { url = "https://api.modrinth.com/maven" }
 }
 
 dependencies {
     paperweight.paperDevBundle("1.21.4-R0.1-SNAPSHOT")
     compileOnly("io.papermc.paper:paper-api:1.21.4-R0.1-SNAPSHOT")
-    compileOnly files("C:/Minecraft Servers/Paper Plugin Test Server/plugins/papermodapi-1.1+1.21.4.jar")
+    //compileOnly("maven.modrinth:papermodapi:${project.papermodapi_version}+${project.minecraft_version}")
+    compileOnly files("C:/Minecraft Servers/Paper Plugin Test Server/plugins/papermodapi-${project.papermodapi_version}+${project.minecraft_version}.jar")
+    //compileOnly("maven.modrinth:recipeapi:${project.recipeapi_version}+${project.minecraft_version}")
+    compileOnly files("C:/Minecraft Servers/Paper Plugin Test Server/plugins/recipeapi-${project.recipeapi_version}+${project.minecraft_version}.jar")
 }
 
 def targetJavaVersion = 21

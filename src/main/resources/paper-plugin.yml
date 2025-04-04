@@ -9,5 +9,8 @@ website: https://modrinth.com/plugin/blahaj-paperized
 dependencies:
   server:
     PaperModAPI:
-      load: BEFORE
       required: true
+      load: BEFORE
+    RecipeAPI:
+      required: true
+      load: BEFORE

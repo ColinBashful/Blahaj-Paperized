@@ -26,7 +26,7 @@ public class CuddlyItem extends CustomItem {
     private final Component tooltip;
 
     public CuddlyItem(Settings settings, String tooltip) {
-        super(settings.maxCount(1).equippableUnswappable(EquipmentSlot.HEAD).attributeModifiers(createAttributeModifiers()));
+        super(settings.maxCount(1).equippableUnswappable(EquipmentSlot.HEAD).attributeModifiers(createAttributeModifiers()).useBlockTranslationPrefix());
         this.tooltip = tooltip == null ? null : Component.translatable(tooltip).color(TextColor.color(0xAAAAAA));
     }
 
